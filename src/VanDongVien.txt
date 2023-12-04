@@ -1,0 +1,73 @@
+Danh sach VDV tham du SeaGame: có 3 nhóm Bong Da (4 thông tin), Boi Loi (3 thong tin) va VDV mon khac (2 thông tin)
+Bui Thi Ngan,Dien kinh
+Nguyen Thi Huong,Dien kinh
+Nguyen Thi Thanh Phuc,Dien kinh
+Nguyen Van Khanh Phong,The duc dung cu
+Dinh Thi Huong,Karate
+Hoang Thi My Tam,Karate
+Nguyen Thi Ngoan,Karate
+Chu Duc Dat,Judo
+Truong Hoang Phuc,Judo
+Bui Hoang Viet Anh,Hau ve,34,CLB Ha Noi
+Bui Tan Truong,Thu mon,24,CLB Ha Noi
+Bui Tien Dung,Hau ve,4,CLB Viettel
+Do Duy Manh,Hau ve,2,CLB Ha Noi
+Doan Van Hau,Hau ve,5,CLB Ha Noi
+Nguyen Huy Hoang,Quang Binh,100 m ech
+Pham Thanh Bao,Ben Tre,100 m tu do
+Tran Hung Nguyen,Quan Doi,100m ngua
+Dang Ngoc Xuan Thien,The duc dung cu
+Van Vi Luong,The duc dung cu
+Nguyen Viet Anh,The duc Aerobic
+Nguyen Van Lam,Xe dap
+Nguyen Thi That,Xe dap
+Mai Tran Tuan Anh,Quan Doi,100 m t do
+Cao Van Dung,Ha Noi,100m ngua
+Do Ngoc Vinh,Ha Noi,200m hon hop
+Nguyen Huu Kim Son,Da Nang,200m ech
+Nguyen Che Thanh,The duc Aerobic
+Nguyen Thi Huong,Taekwondo
+Pham Dang Quang,Taekwondo
+Ngo Quang Tien,Taekwondo
+Nguyen Viet Tuong,Da Nang,100m buom
+Ngo Dinh Chuyen,Quang Ninh,100m ech
+Nguyen Hoang Khang,Vinh Long,200m ech
+Pham Thi Van,Thanh Hoa,100m ngua
+Le Thu Thuy,Dong Nai,100m tu do
+Ha Duc Chinh,Tien dao,18,CLB SHB Da Nang
+Ho Tan Tai,Hau ve,35,CLB Binh Dinh
+Ho Tuan Tai,Tien dao,10,CLB Thanh pho Ho Chi Minh
+Le Tien Anh,Tien ve,11,CLB Topenland Binh Dinh
+Le Van Xuan,Hau ve,27,CLB Ha Noi
+Luong Xuan Truong,Tien ve,6,CLB Hoang Anh Gia Lai
+Ly Cong Hoang Anh,Tien ve,33,CLB Hong Linh Ha Tinh
+Nguyen Hoang Duc,Tien ve,14,CLB Viettel
+Nguyen Phong Hong Duy,Hau ve,7,CLB Hoang Anh Gia Lai
+Nguyen Quang Hai,Tien ve,19,CLB Ha Noi
+Le Thanh Duoc,Quan Doi,200m hon hop
+Le Nguyen Duy Khoa,Quan Doi,100 m ech
+Nguyen Thanh Binh,Hau ve,31,CLB Viettel
+Nguyen Thanh Chung,Hau ve,16,CLB Ha Noi
+Nguyen Tien Linh,Tien dao,22,CLB Becamex Binh Duong
+Nguyen Trong Hoang,Hau ve,8,CLB Viettel
+Luong Jeremie Loic Nino,Tp. Ho Chi Minh,400m ech
+Nguyen Quang Thuan,Quan Doi,1500m tu do
+Nguyen Thuy Hien,Quan Doi,50m tu do
+Le Trong Phuc,An Giang,50m buom
+Nguyen Tuan Anh,Tien ve,11,CLB Hoang Anh Gia Lai
+Nguyen Van Hoang,Thu mon,25,CLB Song Lam Nghe An
+Nguyen Van Toan,Tien dao,9,CLB Hoang Anh Gia Lai
+Nguyen Van Toan,Thu mon,23,CLB Hai Phong
+Pham Duc Huy,Tien ve,15,CLB Ha Noi
+Cao Thi My Tien,Long An,400m tu do
+Le Quynh Nhu,Dong Nai,100m buom
+Hoang Quy Phuoc,Da Nang,100m ech
+Pham Tuan Hai,Tien dao,10,CLB Hong Linh Ha Tinh
+Phan Van Duc,Tien ve,20,CLB Song Lam Nghe An
+Que Ngoc Hai,Hau ve,3,CLB Viettel
+Tran Dinh Trong,Hau ve,21,CLB Ha Noi
+Nguyen Thi Thi,Xe dap
+Tran Minh Vuong,Tien ve,26,CLB Hoang Anh Gia Lai
+Truong Van Thiet,Hau ve,5,CLB Viettel
+Nguyen Thi Thu Mai,Xe dap
+Vu Van Thanh,Hau ve,17,CLB Hoang Anh Gia Lai

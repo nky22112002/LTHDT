@@ -1,0 +1,21 @@
+//Ten nuoc, Thu do, Dan so (trieu nguoi), Dien tich (ngan km2) 
+Anh,London,55,130
+Australia,Canberra,26,7687
+Ba Lan,Warsaw,38,312
+Brazil,Brasilia,212,8511
+Canada,Ottawa,38,9984
+CH Sec,Belgrad,8,88
+Cuba,Havana,11,110
+Duc,Berlin,81,357
+Ha Lan,Amsterdam,17,41
+Han Quoc,Seoul,51,98
+Hungary,Budapest,9,93
+Italy,Rome,60,301
+Jamaica,Kingston,3,11
+New Zealand,Wellington,5,268
+Nhat Ban,Tokyo,125,378
+My,Washington D.C.,331,9629
+ROC,Moscow,146,1710000
+Phap,Paris,66,547
+Tay Ban Nha,Madrid,46,504
+Trung Quoc,Beijing,1500,9596
